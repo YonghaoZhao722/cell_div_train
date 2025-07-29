@@ -1,0 +1,13 @@
+/classification_data_final
+/classification_data_final_fixed
+/classification_models
+/data
+/models*
+/processed_data*
+/test_results*
+/inference_results*
+/*results
+/visualization_results
+/__MACOSX
+/__pycache__
+._*

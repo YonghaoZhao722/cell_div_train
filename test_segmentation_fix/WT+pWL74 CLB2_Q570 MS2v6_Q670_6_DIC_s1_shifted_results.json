@@ -1,0 +1,3113 @@
+{
+  "mask_file": "data/dic_masks/WT+pWL74 CLB2_Q570 MS2v6_Q670_6_DIC_s1_shifted.tif",
+  "analysis_timestamp": "2025-07-27T20:24:28.488621",
+  "total_cells": 74,
+  "normal_cells": 50,
+  "budding_cells": 24,
+  "cell_results": [
+    {
+      "cell_id": 52,
+      "area": 7921,
+      "centroid": [
+        713,
+        1044
+      ],
+      "bounding_box": [
+        636,
+        988,
+        790,
+        1100
+      ],
+      "classification": {
+        "prediction": "budding",
+        "confidence": 0.9274755120277405,
+        "probabilities": [
+          0.07252451032400131,
+          0.9274755120277405
+        ],
+        "class_probabilities": {
+          "normal": 0.07252451032400131,
+          "budding": 0.9274755120277405
+        },
+        "debug_info": {
+          "mask_area": 7921,
+          "mask_unique_values": [
+            0,
+            1
+          ],
+          "tensor_stats": {
+            "mean": 0.3436737060546875,
+            "std": 0.47493740916252136,
+            "min": 0.0,
+            "max": 1.0
+          }
+        }
+      },
+      "segmentation": {
+        "total_area": 7921,
+        "mother_area": 7178,
+        "daughter_area": 709,
+        "mother_ratio": 0.9061987122838026,
+        "daughter_ratio": 0.08950890039136472
+      }
+    },
+    {
+      "cell_id": 9,
+      "area": 6087,
+      "centroid": [
+        181,
+        1130
+      ],
+      "bounding_box": [
+        143,
+        1059,
+        219,
+        1202
+      ],
+      "classification": {
+        "prediction": "budding",
+        "confidence": 0.9441500306129456,
+        "probabilities": [
+          0.05584997683763504,
+          0.9441500306129456
+        ],
+        "class_probabilities": {
+          "normal": 0.05584997683763504,
+          "budding": 0.9441500306129456
+        },
+        "debug_info": {
+          "mask_area": 6087,
+          "mask_unique_values": [
+            0,
+            1
+          ],
+          "tensor_stats": {
+            "mean": 0.3893280029296875,
+            "std": 0.4876016080379486,
+            "min": 0.0,
+            "max": 1.0
+          }
+        }
+      },
+      "segmentation": {
+        "total_area": 6087,
+        "mother_area": 5881,
+        "daughter_area": 213,
+        "mother_ratio": 0.96615738459011,
+        "daughter_ratio": 0.03499260719566289
+      }
+    },
+    {
+      "cell_id": 47,
+      "area": 5934,
+      "centroid": [
+        569,
+        829
+      ],
+      "bounding_box": [
+        537,
+        759,
+        601,
+        900
+      ],
+      "classification": {
+        "prediction": "budding",
+        "confidence": 0.9599321484565735,
+        "probabilities": [
+          0.040067896246910095,
+          0.9599321484565735
+        ],
+        "class_probabilities": {
+          "normal": 0.040067896246910095,
+          "budding": 0.9599321484565735
+        },
+        "debug_info": {
+          "mask_area": 5934,
+          "mask_unique_values": [
+            0,
+            1
+          ],
+          "tensor_stats": {
+            "mean": 0.439361572265625,
+            "std": 0.4963131546974182,
+            "min": 0.0,
+            "max": 1.0
+          }
+        }
+      },
+      "segmentation": {
+        "total_area": 5934,
+        "mother_area": 4632,
+        "daughter_area": 1300,
+        "mother_ratio": 0.7805864509605662,
+        "daughter_ratio": 0.21907650825749916
+      }
+    },
+    {
+      "cell_id": 51,
+      "area": 5472,
+      "centroid": [
+        656,
+        875
+      ],
+      "bounding_box": [
+        616,
+        818,
+        696,
+        933
+      ],
+      "classification": {
+        "prediction": "budding",
+        "confidence": 0.9307587146759033,
+        "probabilities": [
+          0.06924128532409668,
+          0.9307587146759033
+        ],
+        "class_probabilities": {
+          "normal": 0.06924128532409668,
+          "budding": 0.9307587146759033
+        },
+        "debug_info": {
+          "mask_area": 5472,
+          "mask_unique_values": [
+            0,
+            1
+          ],
+          "tensor_stats": {
+            "mean": 0.4053192138671875,
+            "std": 0.49095746874809265,
+            "min": 0.0,
+            "max": 1.0
+          }
+        }
+      },
+      "segmentation": {
+        "total_area": 5472,
+        "mother_area": 5430,
+        "daughter_area": 45,
+        "mother_ratio": 0.9923245614035088,
+        "daughter_ratio": 0.008223684210526315
+      }
+    },
+    {
+      "cell_id": 16,
+      "area": 5370,
+      "centroid": [
+        294,
+        643
+      ],
+      "bounding_box": [
+        245,
+        593,
+        343,
+        693
+      ],
+      "classification": {
+        "prediction": "budding",
+        "confidence": 0.8997516632080078,
+        "probabilities": [
+          0.1002483144402504,
+          0.8997516632080078
+        ],
+        "class_probabilities": {
+          "normal": 0.1002483144402504,
+          "budding": 0.8997516632080078
+        },
+        "debug_info": {
+          "mask_area": 5370,
+          "mask_unique_values": [
+            0,
+            1
+          ],
+          "tensor_stats": {
+            "mean": 0.379119873046875,
+            "std": 0.48517170548439026,
+            "min": 0.0,
+            "max": 1.0
+          }
+        }
+      },
+      "segmentation": {
+        "total_area": 5370,
+        "mother_area": 4542,
+        "daughter_area": 823,
+        "mother_ratio": 0.8458100558659218,
+        "daughter_ratio": 0.1532588454376164
+      }
+    },
+    {
+      "cell_id": 65,
+      "area": 5291,
+      "centroid": [
+        774,
+        528
+      ],
+      "bounding_box": [
+        734,
+        471,
+        815,
+        585
+      ],
+      "classification": {
+        "prediction": "budding",
+        "confidence": 0.9390268921852112,
+        "probabilities": [
+          0.06097310781478882,
+          0.9390268921852112
+        ],
+        "class_probabilities": {
+          "normal": 0.06097310781478882,
+          "budding": 0.9390268921852112
+        },
+        "debug_info": {
+          "mask_area": 5291,
+          "mask_unique_values": [
+            0,
+            1
+          ],
+          "tensor_stats": {
+            "mean": 0.3907623291015625,
+            "std": 0.4879249632358551,
+            "min": 0.0,
+            "max": 1.0
+          }
+        }
+      },
+      "segmentation": {
+        "total_area": 5291,
+        "mother_area": 3848,
+        "daughter_area": 1442,
+        "mother_ratio": 0.7272727272727273,
+        "daughter_ratio": 0.27253827253827256
+      }
+    },
+    {
+      "cell_id": 5,
+      "area": 5290,
+      "centroid": [
+        120,
+        657
+      ],
+      "bounding_box": [
+        72,
+        613,
+        168,
+        701
+      ],
+      "classification": {
+        "prediction": "budding",
+        "confidence": 0.9025458097457886,
+        "probabilities": [
+          0.09745416790246964,
+          0.9025458097457886
+        ],
+        "class_probabilities": {
+          "normal": 0.09745416790246964,
+          "budding": 0.9025458097457886
+        },
+        "debug_info": {
+          "mask_area": 5290,
+          "mask_unique_values": [
+            0,
+            1
+          ],
+          "tensor_stats": {
+            "mean": 0.4224090576171875,
+            "std": 0.49394673109054565,
+            "min": 0.0,
+            "max": 1.0
+          }
+        }
+      },
+      "segmentation": {
+        "total_area": 5290,
+        "mother_area": 4063,
+        "daughter_area": 1222,
+        "mother_ratio": 0.7680529300567108,
+        "daughter_ratio": 0.23100189035916824
+      }
+    },
+    {
+      "cell_id": 77,
+      "area": 5263,
+      "centroid": [
+        886,
+        404
+      ],
+      "bounding_box": [
+        850,
+        359,
+        923,
+        450
+      ],
+      "classification": {
+        "prediction": "normal",
+        "confidence": 0.7949671745300293,
+        "probabilities": [
+          0.7949671745300293,
+          0.2050328552722931
+        ],
+        "class_probabilities": {
+          "normal": 0.7949671745300293,
+          "budding": 0.2050328552722931
+        },
+        "debug_info": {
+          "mask_area": 5263,
+          "mask_unique_values": [
+            0,
+            1
+          ],
+          "tensor_stats": {
+            "mean": 0.5094451904296875,
+            "std": 0.49991458654403687,
+            "min": 0.0,
+            "max": 1.0
+          }
+        }
+      },
+      "segmentation": null
+    },
+    {
+      "cell_id": 32,
+      "area": 4996,
+      "centroid": [
+        367,
+        432
+      ],
+      "bounding_box": [
+        325,
+        394,
+        410,
+        471
+      ],
+      "classification": {
+        "prediction": "normal",
+        "confidence": 0.7748162150382996,
+        "probabilities": [
+          0.7748162150382996,
+          0.22518378496170044
+        ],
+        "class_probabilities": {
+          "normal": 0.7748162150382996,
+          "budding": 0.22518378496170044
+        },
+        "debug_info": {
+          "mask_area": 4996,
+          "mask_unique_values": [
+            0,
+            1
+          ],
+          "tensor_stats": {
+            "mean": 0.4904327392578125,
+            "std": 0.4999122619628906,
+            "min": 0.0,
+            "max": 1.0
+          }
+        }
+      },
+      "segmentation": null
+    },
+    {
+      "cell_id": 55,
+      "area": 4888,
+      "centroid": [
+        698,
+        308
+      ],
+      "bounding_box": [
+        656,
+        264,
+        740,
+        352
+      ],
+      "classification": {
+        "prediction": "budding",
+        "confidence": 0.8034879565238953,
+        "probabilities": [
+          0.19651205837726593,
+          0.8034879565238953
+        ],
+        "class_probabilities": {
+          "normal": 0.19651205837726593,
+          "budding": 0.8034879565238953
+        },
+        "debug_info": {
+          "mask_area": 4888,
+          "mask_unique_values": [
+            0,
+            1
+          ],
+          "tensor_stats": {
+            "mean": 0.4344940185546875,
+            "std": 0.49569419026374817,
+            "min": 0.0,
+            "max": 1.0
+          }
+        }
+      },
+      "segmentation": {
+        "total_area": 4888,
+        "mother_area": 4891,
+        "daughter_area": 0,
+        "mother_ratio": 1.0006137479541735,
+        "daughter_ratio": 0.0
+      }
+    },
+    {
+      "cell_id": 46,
+      "area": 4828,
+      "centroid": [
+        588,
+        518
+      ],
+      "bounding_box": [
+        535,
+        478,
+        642,
+        558
+      ],
+      "classification": {
+        "prediction": "budding",
+        "confidence": 0.9349464774131775,
+        "probabilities": [
+          0.06505357474088669,
+          0.9349464774131775
+        ],
+        "class_probabilities": {
+          "normal": 0.06505357474088669,
+          "budding": 0.9349464774131775
+        },
+        "debug_info": {
+          "mask_area": 4828,
+          "mask_unique_values": [
+            0,
+            1
+          ],
+          "tensor_stats": {
+            "mean": 0.3791351318359375,
+            "std": 0.4851755201816559,
+            "min": 0.0,
+            "max": 1.0
+          }
+        }
+      },
+      "segmentation": {
+        "total_area": 4828,
+        "mother_area": 3876,
+        "daughter_area": 948,
+        "mother_ratio": 0.8028169014084507,
+        "daughter_ratio": 0.19635459817729908
+      }
+    },
+    {
+      "cell_id": 78,
+      "area": 4799,
+      "centroid": [
+        917,
+        708
+      ],
+      "bounding_box": [
+        865,
+        670,
+        970,
+        747
+      ],
+      "classification": {
+        "prediction": "budding",
+        "confidence": 0.9387133121490479,
+        "probabilities": [
+          0.06128664314746857,
+          0.9387133121490479
+        ],
+        "class_probabilities": {
+          "normal": 0.06128664314746857,
+          "budding": 0.9387133121490479
+        },
+        "debug_info": {
+          "mask_area": 4799,
+          "mask_unique_values": [
+            0,
+            1
+          ],
+          "tensor_stats": {
+            "mean": 0.3958740234375,
+            "std": 0.4890413284301758,
+            "min": 0.0,
+            "max": 1.0
+          }
+        }
+      },
+      "segmentation": {
+        "total_area": 4799,
+        "mother_area": 4799,
+        "daughter_area": 0,
+        "mother_ratio": 1.0,
+        "daughter_ratio": 0.0
+      }
+    },
+    {
+      "cell_id": 4,
+      "area": 4663,
+      "centroid": [
+        79,
+        1018
+      ],
+      "bounding_box": [
+        44,
+        977,
+        115,
+        1060
+      ],
+      "classification": {
+        "prediction": "normal",
+        "confidence": 0.8031361699104309,
+        "probabilities": [
+          0.8031361699104309,
+          0.19686377048492432
+        ],
+        "class_probabilities": {
+          "normal": 0.8031361699104309,
+          "budding": 0.19686377048492432
+        },
+        "debug_info": {
+          "mask_area": 4663,
+          "mask_unique_values": [
+            0,
+            1
+          ],
+          "tensor_stats": {
+            "mean": 0.4976959228515625,
+            "std": 0.4999985098838806,
+            "min": 0.0,
+            "max": 1.0
+          }
+        }
+      },
+      "segmentation": null
+    },
+    {
+      "cell_id": 75,
+      "area": 4491,
+      "centroid": [
+        892,
+        520
+      ],
+      "bounding_box": [
+        840,
+        486,
+        944,
+        555
+      ],
+      "classification": {
+        "prediction": "budding",
+        "confidence": 0.9005156755447388,
+        "probabilities": [
+          0.09948425740003586,
+          0.9005156755447388
+        ],
+        "class_probabilities": {
+          "normal": 0.09948425740003586,
+          "budding": 0.9005156755447388
+        },
+        "debug_info": {
+          "mask_area": 4491,
+          "mask_unique_values": [
+            0,
+            1
+          ],
+          "tensor_stats": {
+            "mean": 0.406890869140625,
+            "std": 0.4912579357624054,
+            "min": 0.0,
+            "max": 1.0
+          }
+        }
+      },
+      "segmentation": {
+        "total_area": 4491,
+        "mother_area": 3583,
+        "daughter_area": 911,
+        "mother_ratio": 0.7978178579380985,
+        "daughter_ratio": 0.20285014473391227
+      }
+    },
+    {
+      "cell_id": 67,
+      "area": 4396,
+      "centroid": [
+        809,
+        209
+      ],
+      "bounding_box": [
+        768,
+        166,
+        850,
+        253
+      ],
+      "classification": {
+        "prediction": "budding",
+        "confidence": 0.9221898913383484,
+        "probabilities": [
+          0.07781010866165161,
+          0.9221898913383484
+        ],
+        "class_probabilities": {
+          "normal": 0.07781010866165161,
+          "budding": 0.9221898913383484
+        },
+        "debug_info": {
+          "mask_area": 4396,
+          "mask_unique_values": [
+            0,
+            1
+          ],
+          "tensor_stats": {
+            "mean": 0.4025115966796875,
+            "std": 0.49040767550468445,
+            "min": 0.0,
+            "max": 1.0
+          }
+        }
+      },
+      "segmentation": {
+        "total_area": 4396,
+        "mother_area": 4122,
+        "daughter_area": 273,
+        "mother_ratio": 0.9376706096451319,
+        "daughter_ratio": 0.06210191082802548
+      }
+    },
+    {
+      "cell_id": 19,
+      "area": 4330,
+      "centroid": [
+        290,
+        479
+      ],
+      "bounding_box": [
+        254,
+        432,
+        327,
+        526
+      ],
+      "classification": {
+        "prediction": "budding",
+        "confidence": 0.8415893912315369,
+        "probabilities": [
+          0.15841056406497955,
+          0.8415893912315369
+        ],
+        "class_probabilities": {
+          "normal": 0.15841056406497955,
+          "budding": 0.8415893912315369
+        },
+        "debug_info": {
+          "mask_area": 4330,
+          "mask_unique_values": [
+            0,
+            1
+          ],
+          "tensor_stats": {
+            "mean": 0.4082794189453125,
+            "std": 0.49151909351348877,
+            "min": 0.0,
+            "max": 1.0
+          }
+        }
+      },
+      "segmentation": {
+        "total_area": 4330,
+        "mother_area": 3990,
+        "daughter_area": 339,
+        "mother_ratio": 0.9214780600461894,
+        "daughter_ratio": 0.07829099307159354
+      }
+    },
+    {
+      "cell_id": 2,
+      "area": 4272,
+      "centroid": [
+        39,
+        895
+      ],
+      "bounding_box": [
+        0,
+        852,
+        78,
+        938
+      ],
+      "classification": {
+        "prediction": "budding",
+        "confidence": 0.9482062458992004,
+        "probabilities": [
+          0.05179378390312195,
+          0.9482062458992004
+        ],
+        "class_probabilities": {
+          "normal": 0.05179378390312195,
+          "budding": 0.9482062458992004
+        },
+        "debug_info": {
+          "mask_area": 4272,
+          "mask_unique_values": [
+            0,
+            1
+          ],
+          "tensor_stats": {
+            "mean": 0.4583282470703125,
+            "std": 0.49826425313949585,
+            "min": 0.0,
+            "max": 1.0
+          }
+        }
+      },
+      "segmentation": {
+        "total_area": 4272,
+        "mother_area": 3491,
+        "daughter_area": 796,
+        "mother_ratio": 0.8171816479400749,
+        "daughter_ratio": 0.18632958801498128
+      }
+    },
+    {
+      "cell_id": 15,
+      "area": 4263,
+      "centroid": [
+        254,
+        865
+      ],
+      "bounding_box": [
+        213,
+        817,
+        296,
+        914
+      ],
+      "classification": {
+        "prediction": "budding",
+        "confidence": 0.8434692025184631,
+        "probabilities": [
+          0.15653078258037567,
+          0.8434692025184631
+        ],
+        "class_probabilities": {
+          "normal": 0.15653078258037567,
+          "budding": 0.8434692025184631
+        },
+        "debug_info": {
+          "mask_area": 4263,
+          "mask_unique_values": [
+            0,
+            1
+          ],
+          "tensor_stats": {
+            "mean": 0.35394287109375,
+            "std": 0.4781953692436218,
+            "min": 0.0,
+            "max": 1.0
+          }
+        }
+      },
+      "segmentation": {
+        "total_area": 4263,
+        "mother_area": 2821,
+        "daughter_area": 1442,
+        "mother_ratio": 0.6617405582922824,
+        "daughter_ratio": 0.33825944170771755
+      }
+    },
+    {
+      "cell_id": 14,
+      "area": 4230,
+      "centroid": [
+        269,
+        1299
+      ],
+      "bounding_box": [
+        230,
+        1256,
+        308,
+        1343
+      ],
+      "classification": {
+        "prediction": "budding",
+        "confidence": 0.9068976044654846,
+        "probabilities": [
+          0.09310238808393478,
+          0.9068976044654846
+        ],
+        "class_probabilities": {
+          "normal": 0.09310238808393478,
+          "budding": 0.9068976044654846
+        },
+        "debug_info": {
+          "mask_area": 4230,
+          "mask_unique_values": [
+            0,
+            1
+          ],
+          "tensor_stats": {
+            "mean": 0.4392242431640625,
+            "std": 0.49629634618759155,
+            "min": 0.0,
+            "max": 1.0
+          }
+        }
+      },
+      "segmentation": {
+        "total_area": 4230,
+        "mother_area": 3858,
+        "daughter_area": 333,
+        "mother_ratio": 0.9120567375886525,
+        "daughter_ratio": 0.07872340425531915
+      }
+    },
+    {
+      "cell_id": 34,
+      "area": 4226,
+      "centroid": [
+        377,
+        1168
+      ],
+      "bounding_box": [
+        329,
+        1123,
+        426,
+        1213
+      ],
+      "classification": {
+        "prediction": "budding",
+        "confidence": 0.9263406991958618,
+        "probabilities": [
+          0.0736592635512352,
+          0.9263406991958618
+        ],
+        "class_probabilities": {
+          "normal": 0.0736592635512352,
+          "budding": 0.9263406991958618
+        },
+        "debug_info": {
+          "mask_area": 4226,
+          "mask_unique_values": [
+            0,
+            1
+          ],
+          "tensor_stats": {
+            "mean": 0.3288116455078125,
+            "std": 0.4697849750518799,
+            "min": 0.0,
+            "max": 1.0
+          }
+        }
+      },
+      "segmentation": {
+        "total_area": 4226,
+        "mother_area": 3411,
+        "daughter_area": 814,
+        "mother_ratio": 0.8071462375769048,
+        "daughter_ratio": 0.1926171320397539
+      }
+    },
+    {
+      "cell_id": 76,
+      "area": 4184,
+      "centroid": [
+        893,
+        951
+      ],
+      "bounding_box": [
+        847,
+        901,
+        940,
+        1002
+      ],
+      "classification": {
+        "prediction": "budding",
+        "confidence": 0.8808295130729675,
+        "probabilities": [
+          0.11917054653167725,
+          0.8808295130729675
+        ],
+        "class_probabilities": {
+          "normal": 0.11917054653167725,
+          "budding": 0.8808295130729675
+        },
+        "debug_info": {
+          "mask_area": 4184,
+          "mask_unique_values": [
+            0,
+            1
+          ],
+          "tensor_stats": {
+            "mean": 0.3056793212890625,
+            "std": 0.46069806814193726,
+            "min": 0.0,
+            "max": 1.0
+          }
+        }
+      },
+      "segmentation": {
+        "total_area": 4184,
+        "mother_area": 3033,
+        "daughter_area": 1151,
+        "mother_ratio": 0.7249043977055449,
+        "daughter_ratio": 0.27509560229445507
+      }
+    },
+    {
+      "cell_id": 64,
+      "area": 4135,
+      "centroid": [
+        783,
+        78
+      ],
+      "bounding_box": [
+        747,
+        38,
+        820,
+        119
+      ],
+      "classification": {
+        "prediction": "budding",
+        "confidence": 0.9060158729553223,
+        "probabilities": [
+          0.09398411214351654,
+          0.9060158729553223
+        ],
+        "class_probabilities": {
+          "normal": 0.09398411214351654,
+          "budding": 0.9060158729553223
+        },
+        "debug_info": {
+          "mask_area": 4135,
+          "mask_unique_values": [
+            0,
+            1
+          ],
+          "tensor_stats": {
+            "mean": 0.440155029296875,
+            "std": 0.49640944600105286,
+            "min": 0.0,
+            "max": 1.0
+          }
+        }
+      },
+      "segmentation": {
+        "total_area": 4135,
+        "mother_area": 4135,
+        "daughter_area": 0,
+        "mother_ratio": 1.0,
+        "daughter_ratio": 0.0
+      }
+    },
+    {
+      "cell_id": 48,
+      "area": 4102,
+      "centroid": [
+        596,
+        237
+      ],
+      "bounding_box": [
+        557,
+        190,
+        635,
+        285
+      ],
+      "classification": {
+        "prediction": "budding",
+        "confidence": 0.8679136633872986,
+        "probabilities": [
+          0.13208630681037903,
+          0.8679136633872986
+        ],
+        "class_probabilities": {
+          "normal": 0.13208630681037903,
+          "budding": 0.8679136633872986
+        },
+        "debug_info": {
+          "mask_area": 4102,
+          "mask_unique_values": [
+            0,
+            1
+          ],
+          "tensor_stats": {
+            "mean": 0.36383056640625,
+            "std": 0.48110437393188477,
+            "min": 0.0,
+            "max": 1.0
+          }
+        }
+      },
+      "segmentation": {
+        "total_area": 4102,
+        "mother_area": 3640,
+        "daughter_area": 462,
+        "mother_ratio": 0.8873720136518771,
+        "daughter_ratio": 0.11262798634812286
+      }
+    },
+    {
+      "cell_id": 41,
+      "area": 4023,
+      "centroid": [
+        475,
+        973
+      ],
+      "bounding_box": [
+        424,
+        944,
+        526,
+        1002
+      ],
+      "classification": {
+        "prediction": "budding",
+        "confidence": 0.9170272946357727,
+        "probabilities": [
+          0.08297266066074371,
+          0.9170272946357727
+        ],
+        "class_probabilities": {
+          "normal": 0.08297266066074371,
+          "budding": 0.9170272946357727
+        },
+        "debug_info": {
+          "mask_area": 4023,
+          "mask_unique_values": [
+            0,
+            1
+          ],
+          "tensor_stats": {
+            "mean": 0.4230499267578125,
+            "std": 0.49404698610305786,
+            "min": 0.0,
+            "max": 1.0
+          }
+        }
+      },
+      "segmentation": {
+        "total_area": 4023,
+        "mother_area": 3261,
+        "daughter_area": 754,
+        "mother_ratio": 0.8105891126025354,
+        "daughter_ratio": 0.18742232165050957
+      }
+    },
+    {
+      "cell_id": 63,
+      "area": 3968,
+      "centroid": [
+        780,
+        304
+      ],
+      "bounding_box": [
+        740,
+        270,
+        821,
+        338
+      ],
+      "classification": {
+        "prediction": "budding",
+        "confidence": 0.567687451839447,
+        "probabilities": [
+          0.432312548160553,
+          0.567687451839447
+        ],
+        "class_probabilities": {
+          "normal": 0.432312548160553,
+          "budding": 0.567687451839447
+        },
+        "debug_info": {
+          "mask_area": 3968,
+          "mask_unique_values": [
+            0,
+            1
+          ],
+          "tensor_stats": {
+            "mean": 0.4473724365234375,
+            "std": 0.49722641706466675,
+            "min": 0.0,
+            "max": 1.0
+          }
+        }
+      },
+      "segmentation": {
+        "total_area": 3968,
+        "mother_area": 3987,
+        "daughter_area": 1,
+        "mother_ratio": 1.004788306451613,
+        "daughter_ratio": 0.00025201612903225806
+      }
+    },
+    {
+      "cell_id": 33,
+      "area": 3842,
+      "centroid": [
+        376,
+        337
+      ],
+      "bounding_box": [
+        329,
+        301,
+        423,
+        374
+      ],
+      "classification": {
+        "prediction": "budding",
+        "confidence": 0.9047900438308716,
+        "probabilities": [
+          0.09520991146564484,
+          0.9047900438308716
+        ],
+        "class_probabilities": {
+          "normal": 0.09520991146564484,
+          "budding": 0.9047900438308716
+        },
+        "debug_info": {
+          "mask_area": 3842,
+          "mask_unique_values": [
+            0,
+            1
+          ],
+          "tensor_stats": {
+            "mean": 0.362030029296875,
+            "std": 0.4805911183357239,
+            "min": 0.0,
+            "max": 1.0
+          }
+        }
+      },
+      "segmentation": {
+        "total_area": 3842,
+        "mother_area": 3173,
+        "daughter_area": 667,
+        "mother_ratio": 0.8258719416970328,
+        "daughter_ratio": 0.17360749609578344
+      }
+    },
+    {
+      "cell_id": 44,
+      "area": 3781,
+      "centroid": [
+        499,
+        845
+      ],
+      "bounding_box": [
+        464,
+        810,
+        535,
+        881
+      ],
+      "classification": {
+        "prediction": "normal",
+        "confidence": 0.8403167128562927,
+        "probabilities": [
+          0.8403167128562927,
+          0.1596832275390625
+        ],
+        "class_probabilities": {
+          "normal": 0.8403167128562927,
+          "budding": 0.1596832275390625
+        },
+        "debug_info": {
+          "mask_area": 3781,
+          "mask_unique_values": [
+            0,
+            1
+          ],
+          "tensor_stats": {
+            "mean": 0.456451416015625,
+            "std": 0.49810370802879333,
+            "min": 0.0,
+            "max": 1.0
+          }
+        }
+      },
+      "segmentation": null
+    },
+    {
+      "cell_id": 68,
+      "area": 3763,
+      "centroid": [
+        824,
+        364
+      ],
+      "bounding_box": [
+        788,
+        330,
+        860,
+        399
+      ],
+      "classification": {
+        "prediction": "normal",
+        "confidence": 0.855278730392456,
+        "probabilities": [
+          0.855278730392456,
+          0.14472123980522156
+        ],
+        "class_probabilities": {
+          "normal": 0.855278730392456,
+          "budding": 0.14472123980522156
+        },
+        "debug_info": {
+          "mask_area": 3763,
+          "mask_unique_values": [
+            0,
+            1
+          ],
+          "tensor_stats": {
+            "mean": 0.4600982666015625,
+            "std": 0.49840912222862244,
+            "min": 0.0,
+            "max": 1.0
+          }
+        }
+      },
+      "segmentation": null
+    },
+    {
+      "cell_id": 3,
+      "area": 3685,
+      "centroid": [
+        74,
+        812
+      ],
+      "bounding_box": [
+        38,
+        781,
+        111,
+        844
+      ],
+      "classification": {
+        "prediction": "normal",
+        "confidence": 0.8928176760673523,
+        "probabilities": [
+          0.8928176760673523,
+          0.10718227177858353
+        ],
+        "class_probabilities": {
+          "normal": 0.8928176760673523,
+          "budding": 0.10718227177858353
+        },
+        "debug_info": {
+          "mask_area": 3685,
+          "mask_unique_values": [
+            0,
+            1
+          ],
+          "tensor_stats": {
+            "mean": 0.476593017578125,
+            "std": 0.49945563077926636,
+            "min": 0.0,
+            "max": 1.0
+          }
+        }
+      },
+      "segmentation": null
+    },
+    {
+      "cell_id": 31,
+      "area": 3682,
+      "centroid": [
+        356,
+        911
+      ],
+      "bounding_box": [
+        319,
+        877,
+        394,
+        946
+      ],
+      "classification": {
+        "prediction": "normal",
+        "confidence": 0.9498289227485657,
+        "probabilities": [
+          0.9498289227485657,
+          0.050171077251434326
+        ],
+        "class_probabilities": {
+          "normal": 0.9498289227485657,
+          "budding": 0.050171077251434326
+        },
+        "debug_info": {
+          "mask_area": 3682,
+          "mask_unique_values": [
+            0,
+            1
+          ],
+          "tensor_stats": {
+            "mean": 0.4352264404296875,
+            "std": 0.49579042196273804,
+            "min": 0.0,
+            "max": 1.0
+          }
+        }
+      },
+      "segmentation": null
+    },
+    {
+      "cell_id": 73,
+      "area": 3624,
+      "centroid": [
+        869,
+        469
+      ],
+      "bounding_box": [
+        832,
+        439,
+        906,
+        500
+      ],
+      "classification": {
+        "prediction": "normal",
+        "confidence": 0.8887835144996643,
+        "probabilities": [
+          0.8887835144996643,
+          0.11121653765439987
+        ],
+        "class_probabilities": {
+          "normal": 0.8887835144996643,
+          "budding": 0.11121653765439987
+        },
+        "debug_info": {
+          "mask_area": 3624,
+          "mask_unique_values": [
+            0,
+            1
+          ],
+          "tensor_stats": {
+            "mean": 0.476043701171875,
+            "std": 0.4994295835494995,
+            "min": 0.0,
+            "max": 1.0
+          }
+        }
+      },
+      "segmentation": null
+    },
+    {
+      "cell_id": 59,
+      "area": 3619,
+      "centroid": [
+        722,
+        816
+      ],
+      "bounding_box": [
+        691,
+        775,
+        753,
+        857
+      ],
+      "classification": {
+        "prediction": "normal",
+        "confidence": 0.8711349368095398,
+        "probabilities": [
+          0.8711349368095398,
+          0.12886501848697662
+        ],
+        "class_probabilities": {
+          "normal": 0.8711349368095398,
+          "budding": 0.12886501848697662
+        },
+        "debug_info": {
+          "mask_area": 3619,
+          "mask_unique_values": [
+            0,
+            1
+          ],
+          "tensor_stats": {
+            "mean": 0.432342529296875,
+            "std": 0.4954051077365875,
+            "min": 0.0,
+            "max": 1.0
+          }
+        }
+      },
+      "segmentation": null
+    },
+    {
+      "cell_id": 56,
+      "area": 3607,
+      "centroid": [
+        707,
+        887
+      ],
+      "bounding_box": [
+        674,
+        852,
+        740,
+        923
+      ],
+      "classification": {
+        "prediction": "normal",
+        "confidence": 0.9130017161369324,
+        "probabilities": [
+          0.9130017161369324,
+          0.08699826151132584
+        ],
+        "class_probabilities": {
+          "normal": 0.9130017161369324,
+          "budding": 0.08699826151132584
+        },
+        "debug_info": {
+          "mask_area": 3607,
+          "mask_unique_values": [
+            0,
+            1
+          ],
+          "tensor_stats": {
+            "mean": 0.4613037109375,
+            "std": 0.4985041618347168,
+            "min": 0.0,
+            "max": 1.0
+          }
+        }
+      },
+      "segmentation": null
+    },
+    {
+      "cell_id": 24,
+      "area": 3570,
+      "centroid": [
+        328,
+        854
+      ],
+      "bounding_box": [
+        286,
+        825,
+        371,
+        883
+      ],
+      "classification": {
+        "prediction": "normal",
+        "confidence": 0.7933027744293213,
+        "probabilities": [
+          0.7933027744293213,
+          0.2066972255706787
+        ],
+        "class_probabilities": {
+          "normal": 0.7933027744293213,
+          "budding": 0.2066972255706787
+        },
+        "debug_info": {
+          "mask_area": 3570,
+          "mask_unique_values": [
+            0,
+            1
+          ],
+          "tensor_stats": {
+            "mean": 0.43597412109375,
+            "std": 0.49588751792907715,
+            "min": 0.0,
+            "max": 1.0
+          }
+        }
+      },
+      "segmentation": null
+    },
+    {
+      "cell_id": 39,
+      "area": 3507,
+      "centroid": [
+        424,
+        770
+      ],
+      "bounding_box": [
+        393,
+        735,
+        456,
+        805
+      ],
+      "classification": {
+        "prediction": "normal",
+        "confidence": 0.8437293767929077,
+        "probabilities": [
+          0.8437293767929077,
+          0.15627062320709229
+        ],
+        "class_probabilities": {
+          "normal": 0.8437293767929077,
+          "budding": 0.15627062320709229
+        },
+        "debug_info": {
+          "mask_area": 3507,
+          "mask_unique_values": [
+            0,
+            1
+          ],
+          "tensor_stats": {
+            "mean": 0.4696044921875,
+            "std": 0.4990790784358978,
+            "min": 0.0,
+            "max": 1.0
+          }
+        }
+      },
+      "segmentation": null
+    },
+    {
+      "cell_id": 79,
+      "area": 3498,
+      "centroid": [
+        901,
+        872
+      ],
+      "bounding_box": [
+        870,
+        836,
+        933,
+        909
+      ],
+      "classification": {
+        "prediction": "normal",
+        "confidence": 0.9057232141494751,
+        "probabilities": [
+          0.9057232141494751,
+          0.09427682310342789
+        ],
+        "class_probabilities": {
+          "normal": 0.9057232141494751,
+          "budding": 0.09427682310342789
+        },
+        "debug_info": {
+          "mask_area": 3498,
+          "mask_unique_values": [
+            0,
+            1
+          ],
+          "tensor_stats": {
+            "mean": 0.4530029296875,
+            "std": 0.4977901875972748,
+            "min": 0.0,
+            "max": 1.0
+          }
+        }
+      },
+      "segmentation": null
+    },
+    {
+      "cell_id": 60,
+      "area": 3464,
+      "centroid": [
+        742,
+        240
+      ],
+      "bounding_box": [
+        711,
+        205,
+        773,
+        275
+      ],
+      "classification": {
+        "prediction": "normal",
+        "confidence": 0.8872818350791931,
+        "probabilities": [
+          0.8872818350791931,
+          0.11271816492080688
+        ],
+        "class_probabilities": {
+          "normal": 0.8872818350791931,
+          "budding": 0.11271816492080688
+        },
+        "debug_info": {
+          "mask_area": 3464,
+          "mask_unique_values": [
+            0,
+            1
+          ],
+          "tensor_stats": {
+            "mean": 0.4687042236328125,
+            "std": 0.4990234076976776,
+            "min": 0.0,
+            "max": 1.0
+          }
+        }
+      },
+      "segmentation": null
+    },
+    {
+      "cell_id": 70,
+      "area": 3442,
+      "centroid": [
+        824,
+        913
+      ],
+      "bounding_box": [
+        789,
+        881,
+        859,
+        946
+      ],
+      "classification": {
+        "prediction": "normal",
+        "confidence": 0.950530469417572,
+        "probabilities": [
+          0.950530469417572,
+          0.04946955665946007
+        ],
+        "class_probabilities": {
+          "normal": 0.950530469417572,
+          "budding": 0.04946955665946007
+        },
+        "debug_info": {
+          "mask_area": 3442,
+          "mask_unique_values": [
+            0,
+            1
+          ],
+          "tensor_stats": {
+            "mean": 0.448333740234375,
+            "std": 0.4973272383213043,
+            "min": 0.0,
+            "max": 1.0
+          }
+        }
+      },
+      "segmentation": null
+    },
+    {
+      "cell_id": 10,
+      "area": 3416,
+      "centroid": [
+        207,
+        988
+      ],
+      "bounding_box": [
+        177,
+        951,
+        237,
+        1026
+      ],
+      "classification": {
+        "prediction": "normal",
+        "confidence": 0.9252463579177856,
+        "probabilities": [
+          0.9252463579177856,
+          0.07475368678569794
+        ],
+        "class_probabilities": {
+          "normal": 0.9252463579177856,
+          "budding": 0.07475368678569794
+        },
+        "debug_info": {
+          "mask_area": 3416,
+          "mask_unique_values": [
+            0,
+            1
+          ],
+          "tensor_stats": {
+            "mean": 0.44927978515625,
+            "std": 0.4974246025085449,
+            "min": 0.0,
+            "max": 1.0
+          }
+        }
+      },
+      "segmentation": null
+    },
+    {
+      "cell_id": 37,
+      "area": 3392,
+      "centroid": [
+        379,
+        1060
+      ],
+      "bounding_box": [
+        342,
+        1031,
+        416,
+        1090
+      ],
+      "classification": {
+        "prediction": "normal",
+        "confidence": 0.9041605591773987,
+        "probabilities": [
+          0.9041605591773987,
+          0.0958394780755043
+        ],
+        "class_probabilities": {
+          "normal": 0.9041605591773987,
+          "budding": 0.0958394780755043
+        },
+        "debug_info": {
+          "mask_area": 3392,
+          "mask_unique_values": [
+            0,
+            1
+          ],
+          "tensor_stats": {
+            "mean": 0.4566497802734375,
+            "std": 0.4981210231781006,
+            "min": 0.0,
+            "max": 1.0
+          }
+        }
+      },
+      "segmentation": null
+    },
+    {
+      "cell_id": 42,
+      "area": 3319,
+      "centroid": [
+        467,
+        464
+      ],
+      "bounding_box": [
+        437,
+        429,
+        497,
+        500
+      ],
+      "classification": {
+        "prediction": "normal",
+        "confidence": 0.9446244239807129,
+        "probabilities": [
+          0.9446244239807129,
+          0.055375516414642334
+        ],
+        "class_probabilities": {
+          "normal": 0.9446244239807129,
+          "budding": 0.055375516414642334
+        },
+        "debug_info": {
+          "mask_area": 3319,
+          "mask_unique_values": [
+            0,
+            1
+          ],
+          "tensor_stats": {
+            "mean": 0.4555511474609375,
+            "std": 0.4980241656303406,
+            "min": 0.0,
+            "max": 1.0
+          }
+        }
+      },
+      "segmentation": null
+    },
+    {
+      "cell_id": 35,
+      "area": 3283,
+      "centroid": [
+        374,
+        719
+      ],
+      "bounding_box": [
+        340,
+        689,
+        408,
+        749
+      ],
+      "classification": {
+        "prediction": "normal",
+        "confidence": 0.920656144618988,
+        "probabilities": [
+          0.920656144618988,
+          0.07934383302927017
+        ],
+        "class_probabilities": {
+          "normal": 0.920656144618988,
+          "budding": 0.07934383302927017
+        },
+        "debug_info": {
+          "mask_area": 3283,
+          "mask_unique_values": [
+            0,
+            1
+          ],
+          "tensor_stats": {
+            "mean": 0.4662628173828125,
+            "std": 0.4988643229007721,
+            "min": 0.0,
+            "max": 1.0
+          }
+        }
+      },
+      "segmentation": null
+    },
+    {
+      "cell_id": 20,
+      "area": 3269,
+      "centroid": [
+        293,
+        931
+      ],
+      "bounding_box": [
+        259,
+        898,
+        328,
+        964
+      ],
+      "classification": {
+        "prediction": "normal",
+        "confidence": 0.944098949432373,
+        "probabilities": [
+          0.944098949432373,
+          0.05590105429291725
+        ],
+        "class_probabilities": {
+          "normal": 0.944098949432373,
+          "budding": 0.05590105429291725
+        },
+        "debug_info": {
+          "mask_area": 3269,
+          "mask_unique_values": [
+            0,
+            1
+          ],
+          "tensor_stats": {
+            "mean": 0.427398681640625,
+            "std": 0.4947047531604767,
+            "min": 0.0,
+            "max": 1.0
+          }
+        }
+      },
+      "segmentation": null
+    },
+    {
+      "cell_id": 12,
+      "area": 3258,
+      "centroid": [
+        229,
+        1130
+      ],
+      "bounding_box": [
+        197,
+        1097,
+        262,
+        1163
+      ],
+      "classification": {
+        "prediction": "normal",
+        "confidence": 0.8613200783729553,
+        "probabilities": [
+          0.8613200783729553,
+          0.13867992162704468
+        ],
+        "class_probabilities": {
+          "normal": 0.8613200783729553,
+          "budding": 0.13867992162704468
+        },
+        "debug_info": {
+          "mask_area": 3258,
+          "mask_unique_values": [
+            0,
+            1
+          ],
+          "tensor_stats": {
+            "mean": 0.4444427490234375,
+            "std": 0.4969075918197632,
+            "min": 0.0,
+            "max": 1.0
+          }
+        }
+      },
+      "segmentation": null
+    },
+    {
+      "cell_id": 25,
+      "area": 3192,
+      "centroid": [
+        328,
+        801
+      ],
+      "bounding_box": [
+        292,
+        773,
+        364,
+        829
+      ],
+      "classification": {
+        "prediction": "normal",
+        "confidence": 0.8494811654090881,
+        "probabilities": [
+          0.8494811654090881,
+          0.15051886439323425
+        ],
+        "class_probabilities": {
+          "normal": 0.8494811654090881,
+          "budding": 0.15051886439323425
+        },
+        "debug_info": {
+          "mask_area": 3192,
+          "mask_unique_values": [
+            0,
+            1
+          ],
+          "tensor_stats": {
+            "mean": 0.456451416015625,
+            "std": 0.49810370802879333,
+            "min": 0.0,
+            "max": 1.0
+          }
+        }
+      },
+      "segmentation": null
+    },
+    {
+      "cell_id": 61,
+      "area": 3056,
+      "centroid": [
+        761,
+        908
+      ],
+      "bounding_box": [
+        729,
+        875,
+        793,
+        942
+      ],
+      "classification": {
+        "prediction": "normal",
+        "confidence": 0.9373215436935425,
+        "probabilities": [
+          0.9373215436935425,
+          0.06267842650413513
+        ],
+        "class_probabilities": {
+          "normal": 0.9373215436935425,
+          "budding": 0.06267842650413513
+        },
+        "debug_info": {
+          "mask_area": 3056,
+          "mask_unique_values": [
+            0,
+            1
+          ],
+          "tensor_stats": {
+            "mean": 0.4181976318359375,
+            "std": 0.493266761302948,
+            "min": 0.0,
+            "max": 1.0
+          }
+        }
+      },
+      "segmentation": null
+    },
+    {
+      "cell_id": 74,
+      "area": 3032,
+      "centroid": [
+        868,
+        334
+      ],
+      "bounding_box": [
+        836,
+        303,
+        900,
+        366
+      ],
+      "classification": {
+        "prediction": "normal",
+        "confidence": 0.9295613765716553,
+        "probabilities": [
+          0.9295613765716553,
+          0.0704386904835701
+        ],
+        "class_probabilities": {
+          "normal": 0.9295613765716553,
+          "budding": 0.0704386904835701
+        },
+        "debug_info": {
+          "mask_area": 3032,
+          "mask_unique_values": [
+            0,
+            1
+          ],
+          "tensor_stats": {
+            "mean": 0.43487548828125,
+            "std": 0.4957444369792938,
+            "min": 0.0,
+            "max": 1.0
+          }
+        }
+      },
+      "segmentation": null
+    },
+    {
+      "cell_id": 57,
+      "area": 3031,
+      "centroid": [
+        712,
+        1295
+      ],
+      "bounding_box": [
+        678,
+        1267,
+        746,
+        1323
+      ],
+      "classification": {
+        "prediction": "normal",
+        "confidence": 0.6252813339233398,
+        "probabilities": [
+          0.6252813339233398,
+          0.37471869587898254
+        ],
+        "class_probabilities": {
+          "normal": 0.6252813339233398,
+          "budding": 0.37471869587898254
+        },
+        "debug_info": {
+          "mask_area": 3031,
+          "mask_unique_values": [
+            0,
+            1
+          ],
+          "tensor_stats": {
+            "mean": 0.4530181884765625,
+            "std": 0.4977916181087494,
+            "min": 0.0,
+            "max": 1.0
+          }
+        }
+      },
+      "segmentation": null
+    },
+    {
+      "cell_id": 26,
+      "area": 2853,
+      "centroid": [
+        324,
+        1313
+      ],
+      "bounding_box": [
+        294,
+        1284,
+        355,
+        1343
+      ],
+      "classification": {
+        "prediction": "normal",
+        "confidence": 0.707294225692749,
+        "probabilities": [
+          0.707294225692749,
+          0.2927057445049286
+        ],
+        "class_probabilities": {
+          "normal": 0.707294225692749,
+          "budding": 0.2927057445049286
+        },
+        "debug_info": {
+          "mask_area": 2853,
+          "mask_unique_values": [
+            0,
+            1
+          ],
+          "tensor_stats": {
+            "mean": 0.50299072265625,
+            "std": 0.4999948740005493,
+            "min": 0.0,
+            "max": 1.0
+          }
+        }
+      },
+      "segmentation": null
+    },
+    {
+      "cell_id": 36,
+      "area": 2805,
+      "centroid": [
+        374,
+        968
+      ],
+      "bounding_box": [
+        342,
+        935,
+        406,
+        1002
+      ],
+      "classification": {
+        "prediction": "normal",
+        "confidence": 0.8314852118492126,
+        "probabilities": [
+          0.8314852118492126,
+          0.16851477324962616
+        ],
+        "class_probabilities": {
+          "normal": 0.8314852118492126,
+          "budding": 0.16851477324962616
+        },
+        "debug_info": {
+          "mask_area": 2805,
+          "mask_unique_values": [
+            0,
+            1
+          ],
+          "tensor_stats": {
+            "mean": 0.383880615234375,
+            "std": 0.48633310198783875,
+            "min": 0.0,
+            "max": 1.0
+          }
+        }
+      },
+      "segmentation": null
+    },
+    {
+      "cell_id": 11,
+      "area": 2603,
+      "centroid": [
+        212,
+        1319
+      ],
+      "bounding_box": [
+        178,
+        1295,
+        247,
+        1343
+      ],
+      "classification": {
+        "prediction": "normal",
+        "confidence": 0.9387558698654175,
+        "probabilities": [
+          0.9387558698654175,
+          0.0612441785633564
+        ],
+        "class_probabilities": {
+          "normal": 0.9387558698654175,
+          "budding": 0.0612441785633564
+        },
+        "debug_info": {
+          "mask_area": 2603,
+          "mask_unique_values": [
+            0,
+            1
+          ],
+          "tensor_stats": {
+            "mean": 0.4940185546875,
+            "std": 0.499968022108078,
+            "min": 0.0,
+            "max": 1.0
+          }
+        }
+      },
+      "segmentation": null
+    },
+    {
+      "cell_id": 38,
+      "area": 2585,
+      "centroid": [
+        401,
+        830
+      ],
+      "bounding_box": [
+        366,
+        804,
+        437,
+        857
+      ],
+      "classification": {
+        "prediction": "normal",
+        "confidence": 0.743110716342926,
+        "probabilities": [
+          0.743110716342926,
+          0.256889283657074
+        ],
+        "class_probabilities": {
+          "normal": 0.743110716342926,
+          "budding": 0.256889283657074
+        },
+        "debug_info": {
+          "mask_area": 2585,
+          "mask_unique_values": [
+            0,
+            1
+          ],
+          "tensor_stats": {
+            "mean": 0.38848876953125,
+            "std": 0.48741036653518677,
+            "min": 0.0,
+            "max": 1.0
+          }
+        }
+      },
+      "segmentation": null
+    },
+    {
+      "cell_id": 69,
+      "area": 2566,
+      "centroid": [
+        817,
+        559
+      ],
+      "bounding_box": [
+        788,
+        532,
+        846,
+        587
+      ],
+      "classification": {
+        "prediction": "normal",
+        "confidence": 0.9797444343566895,
+        "probabilities": [
+          0.9797444343566895,
+          0.020255552604794502
+        ],
+        "class_probabilities": {
+          "normal": 0.9797444343566895,
+          "budding": 0.020255552604794502
+        },
+        "debug_info": {
+          "mask_area": 2566,
+          "mask_unique_values": [
+            0,
+            1
+          ],
+          "tensor_stats": {
+            "mean": 0.438690185546875,
+            "std": 0.4962306618690491,
+            "min": 0.0,
+            "max": 1.0
+          }
+        }
+      },
+      "segmentation": null
+    },
+    {
+      "cell_id": 53,
+      "area": 2517,
+      "centroid": [
+        672,
+        233
+      ],
+      "bounding_box": [
+        642,
+        206,
+        702,
+        261
+      ],
+      "classification": {
+        "prediction": "normal",
+        "confidence": 0.9689970016479492,
+        "probabilities": [
+          0.9689970016479492,
+          0.03100297786295414
+        ],
+        "class_probabilities": {
+          "normal": 0.9689970016479492,
+          "budding": 0.03100297786295414
+        },
+        "debug_info": {
+          "mask_area": 2517,
+          "mask_unique_values": [
+            0,
+            1
+          ],
+          "tensor_stats": {
+            "mean": 0.419342041015625,
+            "std": 0.493455171585083,
+            "min": 0.0,
+            "max": 1.0
+          }
+        }
+      },
+      "segmentation": null
+    },
+    {
+      "cell_id": 49,
+      "area": 2458,
+      "centroid": [
+        630,
+        267
+      ],
+      "bounding_box": [
+        605,
+        235,
+        656,
+        299
+      ],
+      "classification": {
+        "prediction": "normal",
+        "confidence": 0.9844642281532288,
+        "probabilities": [
+          0.9844642281532288,
+          0.01553578395396471
+        ],
+        "class_probabilities": {
+          "normal": 0.9844642281532288,
+          "budding": 0.01553578395396471
+        },
+        "debug_info": {
+          "mask_area": 2458,
+          "mask_unique_values": [
+            0,
+            1
+          ],
+          "tensor_stats": {
+            "mean": 0.4121246337890625,
+            "std": 0.4922211170196533,
+            "min": 0.0,
+            "max": 1.0
+          }
+        }
+      },
+      "segmentation": null
+    },
+    {
+      "cell_id": 71,
+      "area": 2298,
+      "centroid": [
+        841,
+        969
+      ],
+      "bounding_box": [
+        812,
+        942,
+        870,
+        996
+      ],
+      "classification": {
+        "prediction": "normal",
+        "confidence": 0.9846920371055603,
+        "probabilities": [
+          0.9846920371055603,
+          0.015307934954762459
+        ],
+        "class_probabilities": {
+          "normal": 0.9846920371055603,
+          "budding": 0.015307934954762459
+        },
+        "debug_info": {
+          "mask_area": 2298,
+          "mask_unique_values": [
+            0,
+            1
+          ],
+          "tensor_stats": {
+            "mean": 0.3974609375,
+            "std": 0.4893765449523926,
+            "min": 0.0,
+            "max": 1.0
+          }
+        }
+      },
+      "segmentation": null
+    },
+    {
+      "cell_id": 22,
+      "area": 2256,
+      "centroid": [
+        296,
+        382
+      ],
+      "bounding_box": [
+        269,
+        356,
+        323,
+        408
+      ],
+      "classification": {
+        "prediction": "normal",
+        "confidence": 0.9910734295845032,
+        "probabilities": [
+          0.9910734295845032,
+          0.00892652291804552
+        ],
+        "class_probabilities": {
+          "normal": 0.9910734295845032,
+          "budding": 0.00892652291804552
+        },
+        "debug_info": {
+          "mask_area": 2256,
+          "mask_unique_values": [
+            0,
+            1
+          ],
+          "tensor_stats": {
+            "mean": 0.423065185546875,
+            "std": 0.4940493404865265,
+            "min": 0.0,
+            "max": 1.0
+          }
+        }
+      },
+      "segmentation": null
+    },
+    {
+      "cell_id": 43,
+      "area": 2134,
+      "centroid": [
+        477,
+        803
+      ],
+      "bounding_box": [
+        447,
+        778,
+        508,
+        829
+      ],
+      "classification": {
+        "prediction": "normal",
+        "confidence": 0.9711518883705139,
+        "probabilities": [
+          0.9711518883705139,
+          0.028848066926002502
+        ],
+        "class_probabilities": {
+          "normal": 0.9711518883705139,
+          "budding": 0.028848066926002502
+        },
+        "debug_info": {
+          "mask_area": 2134,
+          "mask_unique_values": [
+            0,
+            1
+          ],
+          "tensor_stats": {
+            "mean": 0.3713836669921875,
+            "std": 0.48317843675613403,
+            "min": 0.0,
+            "max": 1.0
+          }
+        }
+      },
+      "segmentation": null
+    },
+    {
+      "cell_id": 45,
+      "area": 2123,
+      "centroid": [
+        512,
+        504
+      ],
+      "bounding_box": [
+        488,
+        478,
+        536,
+        530
+      ],
+      "classification": {
+        "prediction": "normal",
+        "confidence": 0.9771367907524109,
+        "probabilities": [
+          0.9771367907524109,
+          0.022863181307911873
+        ],
+        "class_probabilities": {
+          "normal": 0.9771367907524109,
+          "budding": 0.022863181307911873
+        },
+        "debug_info": {
+          "mask_area": 2123,
+          "mask_unique_values": [
+            0,
+            1
+          ],
+          "tensor_stats": {
+            "mean": 0.4337615966796875,
+            "std": 0.49559682607650757,
+            "min": 0.0,
+            "max": 1.0
+          }
+        }
+      },
+      "segmentation": null
+    },
+    {
+      "cell_id": 29,
+      "area": 2121,
+      "centroid": [
+        338,
+        1012
+      ],
+      "bounding_box": [
+        313,
+        984,
+        363,
+        1040
+      ],
+      "classification": {
+        "prediction": "normal",
+        "confidence": 0.9915466904640198,
+        "probabilities": [
+          0.9915466904640198,
+          0.008453321643173695
+        ],
+        "class_probabilities": {
+          "normal": 0.9915466904640198,
+          "budding": 0.008453321643173695
+        },
+        "debug_info": {
+          "mask_area": 2121,
+          "mask_unique_values": [
+            0,
+            1
+          ],
+          "tensor_stats": {
+            "mean": 0.3985443115234375,
+            "std": 0.48960229754447937,
+            "min": 0.0,
+            "max": 1.0
+          }
+        }
+      },
+      "segmentation": null
+    },
+    {
+      "cell_id": 18,
+      "area": 1973,
+      "centroid": [
+        277,
+        824
+      ],
+      "bounding_box": [
+        253,
+        799,
+        301,
+        849
+      ],
+      "classification": {
+        "prediction": "normal",
+        "confidence": 0.9793644547462463,
+        "probabilities": [
+          0.9793644547462463,
+          0.0206355731934309
+        ],
+        "class_probabilities": {
+          "normal": 0.9793644547462463,
+          "budding": 0.0206355731934309
+        },
+        "debug_info": {
+          "mask_area": 1973,
+          "mask_unique_values": [
+            0,
+            1
+          ],
+          "tensor_stats": {
+            "mean": 0.414642333984375,
+            "std": 0.4926639497280121,
+            "min": 0.0,
+            "max": 1.0
+          }
+        }
+      },
+      "segmentation": null
+    },
+    {
+      "cell_id": 83,
+      "area": 1947,
+      "centroid": [
+        955,
+        874
+      ],
+      "bounding_box": [
+        932,
+        849,
+        979,
+        899
+      ],
+      "classification": {
+        "prediction": "normal",
+        "confidence": 0.9889966249465942,
+        "probabilities": [
+          0.9889966249465942,
+          0.011003337800502777
+        ],
+        "class_probabilities": {
+          "normal": 0.9889966249465942,
+          "budding": 0.011003337800502777
+        },
+        "debug_info": {
+          "mask_area": 1947,
+          "mask_unique_values": [
+            0,
+            1
+          ],
+          "tensor_stats": {
+            "mean": 0.414947509765625,
+            "std": 0.4927167296409607,
+            "min": 0.0,
+            "max": 1.0
+          }
+        }
+      },
+      "segmentation": null
+    },
+    {
+      "cell_id": 13,
+      "area": 1931,
+      "centroid": [
+        254,
+        976
+      ],
+      "bounding_box": [
+        230,
+        951,
+        278,
+        1002
+      ],
+      "classification": {
+        "prediction": "normal",
+        "confidence": 0.9914221167564392,
+        "probabilities": [
+          0.9914221167564392,
+          0.008577833883464336
+        ],
+        "class_probabilities": {
+          "normal": 0.9914221167564392,
+          "budding": 0.008577833883464336
+        },
+        "debug_info": {
+          "mask_area": 1931,
+          "mask_unique_values": [
+            0,
+            1
+          ],
+          "tensor_stats": {
+            "mean": 0.3997955322265625,
+            "std": 0.4898599088191986,
+            "min": 0.0,
+            "max": 1.0
+          }
+        }
+      },
+      "segmentation": null
+    },
+    {
+      "cell_id": 23,
+      "area": 1931,
+      "centroid": [
+        301,
+        981
+      ],
+      "bounding_box": [
+        276,
+        956,
+        327,
+        1006
+      ],
+      "classification": {
+        "prediction": "normal",
+        "confidence": 0.9876292943954468,
+        "probabilities": [
+          0.9876292943954468,
+          0.012370727956295013
+        ],
+        "class_probabilities": {
+          "normal": 0.9876292943954468,
+          "budding": 0.012370727956295013
+        },
+        "debug_info": {
+          "mask_area": 1931,
+          "mask_unique_values": [
+            0,
+            1
+          ],
+          "tensor_stats": {
+            "mean": 0.38897705078125,
+            "std": 0.48752182722091675,
+            "min": 0.0,
+            "max": 1.0
+          }
+        }
+      },
+      "segmentation": null
+    },
+    {
+      "cell_id": 66,
+      "area": 1623,
+      "centroid": [
+        784,
+        947
+      ],
+      "bounding_box": [
+        760,
+        924,
+        808,
+        970
+      ],
+      "classification": {
+        "prediction": "normal",
+        "confidence": 0.9954374432563782,
+        "probabilities": [
+          0.9954374432563782,
+          0.004562611225992441
+        ],
+        "class_probabilities": {
+          "normal": 0.9954374432563782,
+          "budding": 0.004562611225992441
+        },
+        "debug_info": {
+          "mask_area": 1623,
+          "mask_unique_values": [
+            0,
+            1
+          ],
+          "tensor_stats": {
+            "mean": 0.3624725341796875,
+            "std": 0.4807179272174835,
+            "min": 0.0,
+            "max": 1.0
+          }
+        }
+      },
+      "segmentation": null
+    },
+    {
+      "cell_id": 40,
+      "area": 1612,
+      "centroid": [
+        447,
+        836
+      ],
+      "bounding_box": [
+        423,
+        812,
+        471,
+        860
+      ],
+      "classification": {
+        "prediction": "normal",
+        "confidence": 0.9967485666275024,
+        "probabilities": [
+          0.9967485666275024,
+          0.0032513923943042755
+        ],
+        "class_probabilities": {
+          "normal": 0.9967485666275024,
+          "budding": 0.0032513923943042755
+        },
+        "debug_info": {
+          "mask_area": 1612,
+          "mask_unique_values": [
+            0,
+            1
+          ],
+          "tensor_stats": {
+            "mean": 0.348846435546875,
+            "std": 0.47660893201828003,
+            "min": 0.0,
+            "max": 1.0
+          }
+        }
+      },
+      "segmentation": null
+    },
+    {
+      "cell_id": 27,
+      "area": 1603,
+      "centroid": [
+        331,
+        958
+      ],
+      "bounding_box": [
+        308,
+        932,
+        354,
+        985
+      ],
+      "classification": {
+        "prediction": "normal",
+        "confidence": 0.9949923157691956,
+        "probabilities": [
+          0.9949923157691956,
+          0.005007689353078604
+        ],
+        "class_probabilities": {
+          "normal": 0.9949923157691956,
+          "budding": 0.005007689353078604
+        },
+        "debug_info": {
+          "mask_area": 1603,
+          "mask_unique_values": [
+            0,
+            1
+          ],
+          "tensor_stats": {
+            "mean": 0.33233642578125,
+            "std": 0.47105446457862854,
+            "min": 0.0,
+            "max": 1.0
+          }
+        }
+      },
+      "segmentation": null
+    },
+    {
+      "cell_id": 6,
+      "area": 1579,
+      "centroid": [
+        123,
+        712
+      ],
+      "bounding_box": [
+        101,
+        691,
+        146,
+        734
+      ],
+      "classification": {
+        "prediction": "normal",
+        "confidence": 0.9974250793457031,
+        "probabilities": [
+          0.9974250793457031,
+          0.002574977232143283
+        ],
+        "class_probabilities": {
+          "normal": 0.9974250793457031,
+          "budding": 0.002574977232143283
+        },
+        "debug_info": {
+          "mask_area": 1579,
+          "mask_unique_values": [
+            0,
+            1
+          ],
+          "tensor_stats": {
+            "mean": 0.3855743408203125,
+            "std": 0.48673442006111145,
+            "min": 0.0,
+            "max": 1.0
+          }
+        }
+      },
+      "segmentation": null
+    },
+    {
+      "cell_id": 17,
+      "area": 1521,
+      "centroid": [
+        272,
+        781
+      ],
+      "bounding_box": [
+        247,
+        762,
+        298,
+        801
+      ],
+      "classification": {
+        "prediction": "normal",
+        "confidence": 0.9932940006256104,
+        "probabilities": [
+          0.9932940006256104,
+          0.006706006824970245
+        ],
+        "class_probabilities": {
+          "normal": 0.9932940006256104,
+          "budding": 0.006706006824970245
+        },
+        "debug_info": {
+          "mask_area": 1521,
+          "mask_unique_values": [
+            0,
+            1
+          ],
+          "tensor_stats": {
+            "mean": 0.362335205078125,
+            "std": 0.48067861795425415,
+            "min": 0.0,
+            "max": 1.0
+          }
+        }
+      },
+      "segmentation": null
+    },
+    {
+      "cell_id": 28,
+      "area": 1475,
+      "centroid": [
+        334,
+        752
+      ],
+      "bounding_box": [
+        312,
+        731,
+        356,
+        773
+      ],
+      "classification": {
+        "prediction": "normal",
+        "confidence": 0.9964516162872314,
+        "probabilities": [
+          0.9964516162872314,
+          0.0035484149120748043
+        ],
+        "class_probabilities": {
+          "normal": 0.9964516162872314,
+          "budding": 0.0035484149120748043
+        },
+        "debug_info": {
+          "mask_area": 1475,
+          "mask_unique_values": [
+            0,
+            1
+          ],
+          "tensor_stats": {
+            "mean": 0.37152099609375,
+            "std": 0.48321497440338135,
+            "min": 0.0,
+            "max": 1.0
+          }
+        }
+      },
+      "segmentation": null
+    },
+    {
+      "cell_id": 1,
+      "area": 1473,
+      "centroid": [
+        13,
+        754
+      ],
+      "bounding_box": [
+        0,
+        721,
+        27,
+        788
+      ],
+      "classification": {
+        "prediction": "budding",
+        "confidence": 0.7130776047706604,
+        "probabilities": [
+          0.2869223356246948,
+          0.7130776047706604
+        ],
+        "class_probabilities": {
+          "normal": 0.2869223356246948,
+          "budding": 0.7130776047706604
+        },
+        "debug_info": {
+          "mask_area": 1473,
+          "mask_unique_values": [
+            0,
+            1
+          ],
+          "tensor_stats": {
+            "mean": 0.4583740234375,
+            "std": 0.4982680678367615,
+            "min": 0.0,
+            "max": 1.0
+          }
+        }
+      },
+      "segmentation": {
+        "total_area": 1473,
+        "mother_area": 1541,
+        "daughter_area": 0,
+        "mother_ratio": 1.0461642905634758,
+        "daughter_ratio": 0.0
+      }
+    },
+    {
+      "cell_id": 72,
+      "area": 1148,
+      "centroid": [
+        834,
+        305
+      ],
+      "bounding_box": [
+        816,
+        281,
+        852,
+        330
+      ],
+      "classification": {
+        "prediction": "normal",
+        "confidence": 0.6920087337493896,
+        "probabilities": [
+          0.6920087337493896,
+          0.30799126625061035
+        ],
+        "class_probabilities": {
+          "normal": 0.6920087337493896,
+          "budding": 0.30799126625061035
+        },
+        "debug_info": {
+          "mask_area": 1148,
+          "mask_unique_values": [
+            0,
+            1
+          ],
+          "tensor_stats": {
+            "mean": 0.2968292236328125,
+            "std": 0.4568641185760498,
+            "min": 0.0,
+            "max": 1.0
+          }
+        }
+      },
+      "segmentation": null
+    },
+    {
+      "cell_id": 30,
+      "area": 940,
+      "centroid": [
+        335,
+        488
+      ],
+      "bounding_box": [
+        316,
+        473,
+        355,
+        503
+      ],
+      "classification": {
+        "prediction": "normal",
+        "confidence": 0.999085545539856,
+        "probabilities": [
+          0.999085545539856,
+          0.0009144594660028815
+        ],
+        "class_probabilities": {
+          "normal": 0.999085545539856,
+          "budding": 0.0009144594660028815
+        },
+        "debug_info": {
+          "mask_area": 940,
+          "mask_unique_values": [
+            0,
+            1
+          ],
+          "tensor_stats": {
+            "mean": 0.317657470703125,
+            "std": 0.46556901931762695,
+            "min": 0.0,
+            "max": 1.0
+          }
+        }
+      },
+      "segmentation": null
+    },
+    {
+      "cell_id": 85,
+      "area": 43,
+      "centroid": [
+        227,
+        833
+      ],
+      "bounding_box": [
+        212,
+        815,
+        243,
+        852
+      ],
+      "classification": {
+        "prediction": "normal",
+        "confidence": 0.9005700349807739,
+        "probabilities": [
+          0.9005700349807739,
+          0.09943003952503204
+        ],
+        "class_probabilities": {
+          "normal": 0.9005700349807739,
+          "budding": 0.09943003952503204
+        },
+        "debug_info": {
+          "mask_area": 43,
+          "mask_unique_values": [
+            0,
+            1
+          ],
+          "tensor_stats": {
+            "mean": 0.0147247314453125,
+            "std": 0.1204497218132019,
+            "min": 0.0,
+            "max": 1.0
+          }
+        }
+      },
+      "segmentation": null
+    }
+  ]
+}
