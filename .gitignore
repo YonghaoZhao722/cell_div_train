@@ -7,6 +7,8 @@
 /test_results*
 /inference_results*
 /*results
+/*analysis*
+/speed_test*
 /visualization_results
 /__MACOSX
 /__pycache__
